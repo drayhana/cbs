@@ -2,3 +2,4 @@ Nama			: Dzakia Rayhana
 NPM 			: 140810160015
 Tempat Tanggal Lahir 	: Bekasi, 22 Januari 2000
 Jurusan			: Teknik Informatika
+Fakultas		: Matematika dan IPA
