@@ -4,3 +4,6 @@ Tempat Tanggal Lahir 	: Bekasi, 22 Januari 2000
 Jenis Kelamin		: Perempuan
 Jurusan			: Teknik Informatika
 Hobby			: Bermain
+
+Nama			: Hasna Karimah
+NPM			: 140810160020
